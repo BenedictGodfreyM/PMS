@@ -1,0 +1,19 @@
+{
+  "name": "Pharmacy Management System",
+  "short_name": "PMS",
+  "description": "Pharmacy Management System with Drug Inventory and Post of Sales",
+  "start_url": "../index.php",
+  "display": "minimal-ui",
+  "dir": "ltr",
+  "icons": [{
+    "src": "img/icon.png",
+    "sizes": "165x165",
+    "type": "image/png"
+  },{
+    "src": "img/favicon.ico",
+    "sizes": "165x165",
+    "type": "image/x-icon"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}

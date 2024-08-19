@@ -1,0 +1,15 @@
+@@@ START-UP INFORMATION @@@
+On the first launch of the application you are required to create
+an administrator account for the system
+**Note That**
+	:The system accomodates only one administrator account
+	:Please memorize your account login details(Very Important).
+
+*The administrator can create multiple user accounts(Unlimited)
+ with the default login cridentials being(For Normal Users Only):
+ 	Username == LASTNAME(in capital letters as noted)
+ 	Password == 12345
+
+*Individual user may login to the system and change the default
+ login credentials(Username or Password) to ensure security of 
+ their account.
